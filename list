@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Produto 1",
+    "category": "Eletrônicos",
+    "images": ["https://source.unsplash.com/800x600/?electronics"],
+    "status": "Disponível"
+  },
+  {
+    "name": "Produto 2",
+    "category": "Roupas",
+    "images": ["https://source.unsplash.com/800x600/?clothes"],
+    "status": "Em estoque"
+  },
+  {
+    "name": "Produto 3",
+    "category": "Decoração",
+    "images": ["https://source.unsplash.com/800x600/?decor"],
+    "status": "Disponível"
+  },
+  {
+    "name": "Produto 4",
+    "category": "Livros",
+    "images": ["https://source.unsplash.com/800x600/?books"],
+    "status": "Esgotado"
+  },
+  {
+    "name": "Produto 5",
+    "category": "Ferramentas",
+    "images": ["https://source.unsplash.com/800x600/?tools"],
+    "status": "Disponível"
+  },
+  {
+    "name": "Produto 6",
+    "category": "Jogos",
+    "images": ["https://source.unsplash.com/800x600/?games"],
+    "status": "Em estoque"
+  },
+  {
+    "name": "Produto 7",
+    "category": "Esportes",
+    "images": ["https://source.unsplash.com/800x600/?sports"],
+    "status": "Disponível"
+  },
+  {
+    "name": "Produto 8",
+    "category": "Móveis",
+    "images": ["https://source.unsplash.com/800x600/?furniture"],
+    "status": "Em estoque"
+  },
+  {
+    "name": "Produto 9",
+    "category": "Beleza",
+    "images": ["https://source.unsplash.com/800x600/?beauty"],
+    "status": "Disponível"
+  },
+  {
+    "name": "Produto 10",
+    "category": "Alimentos",
+    "images": ["https://source.unsplash.com/800x600/?food"],
+    "status": "Em estoque"
+  },
+  {
+    "name": "Produto 11",
+    "category": "Brinquedos",
+    "images": ["https://source.unsplash.com/800x600/?toys"],
+    "status": "Disponível"
+  },
+  {
+    "name": "Produto 12",
+    "category": "Fotografia",
+    "images": ["https://source.unsplash.com/800x600/?photography"],
+    "status": "Disponível"
+  },
+  {
+    "name": "Produto 13",
+    "category": "Informática",
+    "images": ["https://source.unsplash.com/800x600/?computer"],
+    "status": "Em estoque"
+  },
+  {
+    "name": "Produto 14",
+    "category": "Artesanato",
+    "images": ["https://source.unsplash.com/800x600/?craft"],
+    "status": "Esgotado"
+  },
+  {
+    "name": "Produto 15",
+    "category": "Papelaria",
+    "images": ["https://source.unsplash.com/800x600/?stationery"],
+    "status": "Disponível"
+  }
+]
